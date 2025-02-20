@@ -1,0 +1,13 @@
+"timestamp","type","employee","value","attribute","entitlement"
+"2024-10-23 16:25:19.777","ATTRIBUTE_VALUE_ADDED","employee1","location:Austin","location",NULL
+"2024-10-23 16:25:19.777","ENTITLEMENT_ADDED","employee1","permission:Austin_Local_Access","NULL",Austin_Local_Access
+"2024-10-23 16:25:19.777","ATTRIBUTE_VALUE_ADDED","employee2","location:Austin","location",NULL
+"2024-10-23 16:25:19.777","ENTITLEMENT_ADDED","employee2","permission:Austin_Local_Access","NULL",Austin_Local_Access
+"2024-10-23 16:25:19.777","ATTRIBUTE_VALUE_ADDED","employee3","location:Austin","location",NULL
+"2024-10-23 16:25:19.777","ENTITLEMENT_ADDED","employee3","permission:Austin_Local_Access","NULL",Austin_Local_Access
+"2024-10-23 16:25:19.777","ATTRIBUTE_VALUE_ADDED","employee4","location:Austin","location",NULL
+"2024-10-23 16:25:19.777","ENTITLEMENT_ADDED","employee4","permission:Austin_Local_Access","NULL",Austin_Local_Access
+"2024-10-21 16:25:19.777","ATTRIBUTE_VALUE_REMOVED","employee1","location:Austin","location",NULL
+"2024-10-21 16:25:19.777","ENTITLEMENT_REMOVED","employee1","permission:Austin_Local_Access","NULL",Austin_Local_Access
+"2024-10-21 16:25:19.777","ATTRIBUTE_VALUE_REMOVED","employee2","location:Austin","location",NULL
+"2024-10-21 16:25:19.777","ENTITLEMENT_REMOVED","employee1","permission:Austin_Local_Access","NULL",Austin_Local_Access

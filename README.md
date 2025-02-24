@@ -56,7 +56,7 @@ Chosen parameters:
 - Analyzed transaction log time span: 20.03.24 - 20.09.24 (six months)
 - Sliding window length: 30 days
 - Minimum Support: 0.6
-- Minimum Confidence: 0.6
+- Minimum Confidence: 0.95
 
 Analyzed attributes:
 - Department,
